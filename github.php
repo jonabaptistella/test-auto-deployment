@@ -1,1 +1,1 @@
-<?php `git pull --no-edit`;
+<?php `git pull`;
